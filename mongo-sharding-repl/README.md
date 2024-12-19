@@ -16,6 +16,6 @@ docker compose up -d
 
 Открыть в браузере http://localhost:8080
 
-## Схема
+## Схема этапа
 
-Ссылка на схемы всех этапов https://drive.google.com/file/d/1A_nY_WayB5qdgzXzdPq1iaD-ZZ8EPRlS/view?usp=sharing
+Ссылка на схему 2 этапа https://drive.google.com/file/d/1A_nY_WayB5qdgzXzdPq1iaD-ZZ8EPRlS/view?usp=sharing
